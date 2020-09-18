@@ -9,7 +9,7 @@ var pars = [
 
     "Currently, I am a Rutger's University Full Stack Flex Bootcamp web development student out of the State of New Jersey. Through this course, I've expanded my knowledge on HTML5, CSS, JavaScript (including jQuery and Sequelize), MongoDB, mySQL, Express, React.js, and Node.js. I have developed online and offline apps using these technologies, which are available in my portfolio.", 
 
-    "Due to my professional aspirations, I grew enthusiastic on expanding my career spectrum of opportunities by updating my knowledge in technolgies that I've used both professional and personally. It's my goal to become a team member of a leading organization that's most suited for my goals as a web developer.",
+    "Due to my professional aspirations, I've grown enthusiastic about expanding the spectrum of career opportunities by updating my knowledge in technolgies that I've always been interested in learning.  I plan on bringing these skills over and join a leading organization where I can grow as a web developer.",
 
     "My professional background is pretty diverse, with experience in the transportation and financial indistries. Prior to joining Rutger's University's bootcamp, I had different roles at United Airlines as part of Inflight Services Department, including supervising inflight operations (reports and on the field) and leading a team of more than 200 successful employees. Before working at United, I was part the Organization team at Banco Santander where I had the role of Policies and Procedures Officer.", 
 
