@@ -1,5 +1,5 @@
 var briefing = document.getElementById("briefing");
-var title = '<h2 id="title" class="text-center mb-3">Welcome to my Profile</h2>'
+var title = '<h2 id="title" class="text-center my-3">Welcome to my Profile</h2>'
 
 briefing.innerHTML = title;
 
