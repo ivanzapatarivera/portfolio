@@ -9,7 +9,7 @@
 .profile {
     width: 175px;
     height: auto;
-    margin: -50px auto;
+    margin:  auto;
     border-radius: 50%;
 }
 
@@ -25,6 +25,14 @@
     border-top-style: dotted;
 }
 
+.bodytext {
+    font-size: .85em;
+}
+
 .fab, .fas {
     font-size: 1.5em;
+}
+
+.briefing {
+    font-family: 'Open Sans', sans-serif;
 }
