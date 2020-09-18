@@ -2,30 +2,29 @@
     background-color: rgb(15,155,225);
     color: white;
     text-decoration: none;
-}
-
-.container {
-    margin-top: 100px;
-    height: 100px;
+    border-radius: 0 0 10px 10px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .profile {
-    width: 250px;
+    width: 175px;
     height: auto;
-    margin: -45px auto -10px 10px;
-    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    margin: -50px auto;
+    border-radius: 50%;
 }
 
-.name {
-    /* margin: auto auto 10px -50px; */
-    line-height: .8;
+.links {
+    font-size: .70em;
+    letter-spacing: 1.1px;
 }
 
-
-.info {
-    font-size: .9rem;
+.toplinks {
+    font-size: .70em;
+    border-top-width: 1px;
+    border-top-color: white;
+    border-top-style: dotted;
 }
 
-.radius5 {
-    border-radius: 5px;
+.fab, .fas {
+    font-size: 1.5em;
 }
