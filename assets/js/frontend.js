@@ -1,11 +1,4 @@
-const proObj =
-{
-    "tag": "img",
-    "className": "profile",
-    "id": "profileImage",
-    "src": "assets/images/profile.png",
-    "alt": "profile picture"
-}
+function frontEnd() {
 
 var parsArr = [
 
@@ -40,16 +33,6 @@ const elPObj = {
     "id": "p"
 }
 
-// Profile Image
-const imgAttrs = proObj
-const imgLoc = document.getElementById('profilePicture');
-
-const img = document.createElement(imgAttrs.tag);
-img.className = (imgAttrs.className);
-img.id = (imgAttrs.id);
-img.src = (imgAttrs.src);
-img.alt = (imgAttrs.alt);
-imgLoc.append(img);
 
 // Page title
 const briefing = document.getElementById("briefing");
@@ -86,3 +69,7 @@ createCol.className = signatureTitlesObj.className;
 createCol.innerHTML = signatureTitlesObj.certification + '</br>'
     + signatureTitlesObj.mba;
 degreeCertificate.append(createCol);
+
+}
+
+export { frontEnd }
