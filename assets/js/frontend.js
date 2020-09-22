@@ -80,7 +80,7 @@ const   createRow = document.createElement("div");
 
 const   degreeCertificate = document.getElementById("title");
 const   createCol = document.createElement("div");
-        createCol.className = "col-sm-12 bodytext";
+        createCol.className = "col-sm-12 title";
         createCol.innerHTML = signatureTitlesObj.certification + '</br>' 
                             + signatureTitlesObj.mba;
         degreeCertificate.append(createCol);
