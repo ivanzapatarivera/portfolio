@@ -7,7 +7,8 @@
 }
 
 .profile {
-    width: 250px;
+    width: 100%;
+    max-width: 200px;
     height: auto;
     margin:  auto;
     border-radius: 50%;
@@ -31,6 +32,11 @@
 
 .fab, .fas {
     font-size: 1.5em;
+}
+
+.leftcolumn {
+   background-color:  rgba(15, 155, 225, .1);
+   border-radius: 15px;
 }
 
 .briefing {

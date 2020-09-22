@@ -19,7 +19,8 @@ function profilePicture() {
     img.id = (imgAttrs.id);
     img.src = (imgAttrs.src);
     img.alt = (imgAttrs.alt);
-    imgLoc.append(img);
+    imgLoc.prepend(img);
+
 
 }
 
