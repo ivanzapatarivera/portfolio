@@ -14,7 +14,7 @@
 }
 
 .links {
-    font-size: .70em;
+    font-size: .75em;
     letter-spacing: 1.1px;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .bodytext {
-    font-size: .85em;
+    font-size: .95em;
 }
 
 .fab, .fas {
@@ -39,7 +39,7 @@
 
 .signature {
     font-family: 'Great Vibes', cursive;
-    font-size: 1.75em;
+    font-size: 1.85em;
     margin-bottom: -.15em;
     margin-top: .15em;
 }
