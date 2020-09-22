@@ -36,3 +36,10 @@
 .briefing {
     font-family: 'Open Sans', sans-serif;
 }
+
+.signature {
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.75em;
+    margin-bottom: -.15em;
+    margin-top: .15em;
+}
