@@ -4,11 +4,11 @@ var parsArr = [
 
     "Hi, and thank you for taking your time to read a bit about me as a web developer and individual.",
 
-    "Recently, I finished Rutger's University Full Stack Flex web developer certification. Through this course, I've earned knowledge on HTML5, CSS, JavaScript (Vanilla, jQuery and Sequelize), MySql, and MERN (MongoDB, Express, React.js, and Node.js). I've created online and offline apps using these technologies, which are available in my portfolio.",
+    "Recently, I finished Rutger's University Full Stack Flex web developer certification. Through this course, I've earned knowledge on HTML5, CSS, JavaScript (Vanilla, jQuery and Sequelize), MySQL, and MERN (MongoDB, Express, React.js, and Node.js). I've created online and offline apps using these technologies, which are available in my portfolio.",
 
     "After finishing my certification, I've grown enthusiastic about bringing these skills over and join a leading organization where I can grow as a web developer.",
 
-    "My professional background is pretty diverse, with experience in the transportation and financial industries. Prior to joining Rutger's University, I had different roles at United Airlines as part of Inflight Services Department, which included supervising a team of more than 200 employees and helping with the operation. Before being part of United's team, I was part of the Organization Department (under Means) at Banco Santander where I had the role of Policies and Procedures Officer.",
+    "My professional background is pretty diverse, with experience in the transportation and financial industries. Prior to joining Rutger's University, I had different roles at United Airlines as part of Inflight Services Department, which included supervising a team of more than 200 employees and assisting for an on-time operation. Before being part of United's team, I was part of the Organization Department (under Means) at Banco Santander where I had the role of Policies and Procedures Officer.",
 
     "I invite you to visit my GitHub, browse through my profile and see the different projects I've developed along with the team of experts and now graduates from Rutgers.",
 
