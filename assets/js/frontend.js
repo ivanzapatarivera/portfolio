@@ -36,9 +36,10 @@ function frontEnd() {
   const profilePicture = document.querySelector(".radius15");
   const body = document.querySelector("body");
 
-  const darkLightModeBtnEl = `<div class="container">
-<button class="btn btn-dark mx-auto mt-2 p-1 px-2" id="darkModeBtn" style="font-size: .75rem">Dark Mode ?</button>
-</div>`;
+  const darkLightModeBtnEl = `  
+                            <div class="container">
+                                <button class="btn btn-dark mx-auto mt-2 p-1 px-2" id="darkModeBtn" style="font-size: .75rem">Dark Mode ?</button>
+                            </div>`;
 
   profilePicture.insertAdjacentHTML("afterend", darkLightModeBtnEl);
   const darkModeBtn = document.querySelector("#darkModeBtn");
