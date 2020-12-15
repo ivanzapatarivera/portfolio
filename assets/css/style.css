@@ -6,6 +6,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.themeFooter {
+    border-radius: 0%;
+}
+
 .profile {
     width: 100%;
     max-width: 200px;
