@@ -45,6 +45,9 @@ const darkModeBtn = document.querySelector('#darkModeBtn');
 darkModeBtn.addEventListener('click', () => {
     body.classList.toggle('bg-dark');
     body.classList.toggle('text-light');
+    profilePicture.classList.toggle('theme');
+    profilePicture.classList.toggle('themeDarkMode');
+    // themeDarkMode
 })
 
 
