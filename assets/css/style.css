@@ -55,10 +55,18 @@
 }
 
 .projectCards {
-    background-color:  rgba(15, 155, 225, .1);
+    /* background-color:  rgba(15, 155, 225, .1); */
     border-width: 1px;
     border-style: solid;
     border-color: lightgray;
     border-radius: 15px;
     box-shadow: 0px 1px 3px rgb(226, 223, 223);
+}
+
+.snapshot {
+    height: 150px;
+}
+
+.snapshotImage {
+    object-fit: cover;
 }
