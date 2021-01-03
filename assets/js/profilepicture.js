@@ -6,7 +6,7 @@ function profilePicture() {
         "tag": "img",
         "className": "profile",
         "id": "profileImage",
-        "src": "/images/profile.png",
+        "src": "/assets/images/profile.png",
         "alt": "profile picture"
     }
         
