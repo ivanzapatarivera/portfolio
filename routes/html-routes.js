@@ -6,4 +6,8 @@ router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '../../index.html'))
 });
 
+router.get('/new', (req, res) => {
+    res.sendFile(path.join(__dirname + '../../indexnew.html'))
+});
+
 module.exports = router;
