@@ -6,7 +6,7 @@ function profilePicture() {
         "tag": "img",
         "className": "profile",
         "id": "profileImage",
-        "src": "assets/images/profile.png",
+        "src": "/images/profile.png",
         "alt": "profile picture"
     }
         
@@ -20,7 +20,6 @@ function profilePicture() {
     img.src = (imgAttrs.src);
     img.alt = (imgAttrs.alt);
     imgLoc.prepend(img);
-
 
 }
 

@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my web developer portfolio. I specialize on technoligies within MERN Stack (MongoDB, Express, React, and Node.js), HTML, CSS and CDN libraries.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsbrook/portfolio.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "author": "Ivan J. Zapata-Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnsbrook/portfolio/issues"
+  },
+  "homepage": "https://github.com/johnsbrook/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "logger": "0.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
