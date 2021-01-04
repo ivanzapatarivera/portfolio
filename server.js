@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(express.static('./assets'));
 app.use(require('./routes/html-routes'));
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`App is listening on http://localhost:${PORT}`);
 });
